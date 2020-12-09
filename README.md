@@ -2,6 +2,13 @@
 
 ~This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).~
 
+## Usage
+
+Clone this repo including it's submodules
+
+```sh
+git clone --recursive git@github.com:eventphone/rc3-poc.git
+```
 
 ## Tools you will need
 
