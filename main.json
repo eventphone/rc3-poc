@@ -186,7 +186,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/twitter.com\/eventphone\/status\/1119912027999305729"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/static_content\/mitarbeiter_des_monats.png"
                 }],
          "type":"tilelayer",
          "visible":true,
