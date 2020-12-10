@@ -199,7 +199,7 @@
          "height":34,
          "id":21,
          "name":"vor_einer_wand",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
