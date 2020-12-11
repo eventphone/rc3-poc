@@ -22,9 +22,10 @@ jobs:
       - name: Bash
         run: |
           ls -al
-          git config --global user.email "d.negrier@thecodingmachine.com"
-          git config --global user.name "David Négrier"
+          git config --global user.email "github@eventphone.de"
+          git config --global user.name "GitHub Workflow"
           git checkout master
+          git submodule update --init --recursive
           git commit -am "Adding files"
 
       - name: Deploy
