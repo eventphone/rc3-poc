@@ -264,7 +264,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=jVNlDFH_B0w"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/mc_st.html"
                 }],
          "type":"tilelayer",
          "visible":true,
