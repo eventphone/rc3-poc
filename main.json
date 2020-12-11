@@ -313,7 +313,7 @@
          "height":34,
          "id":36,
          "name":"Lounge_Area_Borders",
-         "opacity":0.22,
+         "opacity":0.35,
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -330,7 +330,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/188.138.9.183\/lounge-at.mp3"
+                 "value":"https:\/\/loungeradio.stream.laut.fm\/loungeradio?pl=m3u&t302=2020-12-11_02-25-04&uuid=06c3a821-1760-426a-bcfe-cd081d137353%"
                 }],
          "type":"tilelayer",
          "visible":true,
