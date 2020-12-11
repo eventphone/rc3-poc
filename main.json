@@ -270,7 +270,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/static_content\/mitarbeiter_des_monats.png"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/mitarbeiter_des_monats.html"
                 }],
          "type":"tilelayer",
          "visible":true,
