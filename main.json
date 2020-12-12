@@ -505,7 +505,7 @@
          "height":35,
          "id":61,
          "name":"sound_poccorn",
-         "opacity":0,
+         "opacity":1,
          "properties":[
                 {
                  "name":"playAudio",
