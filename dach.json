@@ -271,7 +271,19 @@
          "draworder":"topdown",
          "id":9,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":0,
+                 "id":2,
+                 "name":"computer",
+                 "point":true,
+                 "rotation":0,
+                 "type":"computer",
+                 "visible":true,
+                 "width":0,
+                 "x":362.690393605791,
+                 "y":113.105112351078
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -291,7 +303,7 @@
          "y":0
         }],
  "nextlayerid":24,
- "nextobjectid":1,
+ "nextobjectid":3,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.4.3",
