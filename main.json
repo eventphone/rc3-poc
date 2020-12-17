@@ -294,7 +294,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"html\/mitarbeiter_des_monats.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/mitarbeiter_des_monats.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -312,7 +312,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"html\/history.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/history.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -330,7 +330,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"html\/blog.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/blog.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -348,7 +348,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"html\/mc_st.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/mc_st.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -366,7 +366,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"html\/promo.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/promo.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -384,7 +384,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"html\/mc_st_feuerwehr.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/mc_st_feuerwehr.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -438,7 +438,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"html\/feuerloescher.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/feuerloescher.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -456,7 +456,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"html\/feuerloescher1.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/feuerloescher1.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -474,7 +474,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"html\/brandschutzordnung.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/brandschutzordnung.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -492,7 +492,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"static_content\/bmz.png"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/static_content\/bmz.png"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -528,7 +528,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/Mateflasche.mp3"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/Mateflasche.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -546,7 +546,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/poccorn.mp3"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/poccorn.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -564,7 +564,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/Kaffeemaschine.mp3"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/Kaffeemaschine.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -636,7 +636,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/modem.mp3"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/modem.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -654,7 +654,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/fax.mp3"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/fax.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -690,7 +690,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/mikrowelle.mp3"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/mikrowelle.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -708,7 +708,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/Toilet_Flush.mp3"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/Toilet_Flush.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -726,7 +726,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/printer.mp3"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/printer.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -744,7 +744,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/Holgi_Dreck.mp3"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/Holgi_Dreck.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -762,7 +762,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/washing_hands.mp3"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/washing_hands.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
