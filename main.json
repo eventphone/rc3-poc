@@ -672,7 +672,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/aed.mp3"
+                 "value":"sounds\/aed.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
