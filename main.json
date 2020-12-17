@@ -510,7 +510,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/du_stehst_vor_einer_wand.mp3"
+                 "value":"sounds\/du_stehst_vor_einer_wand.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
