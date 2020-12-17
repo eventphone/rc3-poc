@@ -528,7 +528,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/Mateflasche.mp3"
+                 "value":"sounds\/Mateflasche.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -546,7 +546,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/poccorn.mp3"
+                 "value":"sounds\/poccorn.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -564,7 +564,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/Kaffeemaschine.mp3"
+                 "value":"sounds\/Kaffeemaschine.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -636,7 +636,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/modem.mp3"
+                 "value":"sounds\/modem.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -654,7 +654,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/fax.mp3"
+                 "value":"sounds\/fax.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -690,7 +690,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/mikrowelle.mp3"
+                 "value":"sounds\/mikrowelle.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -708,7 +708,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/Toilet_Flush.mp3"
+                 "value":"sounds\/Toilet_Flush.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -726,7 +726,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/printer.mp3"
+                 "value":"sounds\/printer.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -744,7 +744,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/Holgi_Dreck.mp3"
+                 "value":"sounds\/Holgi_Dreck.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -762,7 +762,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/washing_hands.mp3"
+                 "value":"sounds\/washing_hands.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,

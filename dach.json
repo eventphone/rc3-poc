@@ -187,7 +187,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/pool.mp3"
+                 "value":"sounds\/pool.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -205,7 +205,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/sounds\/playground.mp3"
+                 "value":"sounds\/playground.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
