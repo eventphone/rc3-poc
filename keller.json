@@ -79,7 +79,7 @@
          "height":16,
          "id":71,
          "name":"url_promo_erdgeist",
-         "opacity":0.1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
@@ -109,7 +109,7 @@
          "height":16,
          "id":73,
          "name":"url_poc_secret",
-         "opacity":0.23,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
