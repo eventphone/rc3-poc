@@ -79,7 +79,7 @@
          "height":16,
          "id":71,
          "name":"url_promo_erdgeist",
-         "opacity":0,
+         "opacity":0.1,
          "properties":[
                 {
                  "name":"openWebsite",
@@ -109,12 +109,12 @@
          "height":16,
          "id":73,
          "name":"url_poc_secret",
-         "opacity":0,
+         "opacity":0.23,
          "properties":[
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/twitter.com\/eventphone\/status\/1211693803675013126"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/poc_secret.html"
                 }],
          "type":"tilelayer",
          "visible":true,
