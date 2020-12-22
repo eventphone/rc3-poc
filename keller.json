@@ -355,7 +355,7 @@
          "height":64,
          "id":92,
          "name":"sound_breeng_telefon",
-         "opacity":0.6,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
