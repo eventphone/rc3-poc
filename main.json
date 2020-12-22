@@ -510,7 +510,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/sketchful.io\/room\/dgQUV"
+                 "value":"https:\/\/sketchful.io\/"
                 }],
          "type":"tilelayer",
          "visible":true,
