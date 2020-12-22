@@ -433,12 +433,12 @@
          "height":35,
          "id":75,
          "name":"url_gelbeseiten",
-         "opacity":0.39,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/guru3.eventphone.de\/event\/gelbeseiten"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/gelbeseiten.html"
                 }],
          "type":"tilelayer",
          "visible":true,
