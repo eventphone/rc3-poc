@@ -1,17 +1,26 @@
-body {
-  font-family: Sans-Serif;
-}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>Which song do the cockroaches sing?</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link rel="stylesheet" type="text/css" href="style.css" />
+  </head>
+  <body class="rc3_body">
+    <article>
+      <section class="rc3_border">
+        <h1 class="rc3_h1">Which song do the cockroaches sing?</h1>
 
-.label-exponat {
-  margin-top: 20px;
-  border-width: 1px;
-  border-style: solid;
-  border-radius: 3px;
-  padding: 18px;
-  display: inline-block;
-}
-
-.small {
-  font-size: 8pt;
-
-}
+        <p class="rc3_text">
+	  <ol>
+		  <li>Please, go around the table to the STOP sign.</li>
+		  <li>Now you can activate the cockroaches by walking up to them.</li>
+		  <li>Find out the right order.</li>
+		  <li>Have fun!</li>
+	  </ol>
+        </p>
+      </section>
+    </article>
+  </body>
+</html>
