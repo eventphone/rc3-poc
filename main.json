@@ -523,7 +523,7 @@
          "height":35,
          "id":74,
          "name":"meeting_backstage",
-         "opacity":0.31,
+         "opacity":0,
          "properties":[
                 {
                  "name":"jitsiRoom",
