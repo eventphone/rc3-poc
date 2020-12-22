@@ -29,7 +29,7 @@ html {
   text-align: center; 
   padding: 20px;
   margin: 0px auto;
-  width: 50%;
+  width: 70%;
 
   /*row justify-content-center align-items-center my-8 */
 }
@@ -100,5 +100,4 @@ li {
   text-align:left;
   font-family: Montserrat, Arial, sans-serif;
   padding: 15px;
-  line-height: 2px;
 }
