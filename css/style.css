@@ -1,0 +1,103 @@
+@font-face {
+  font-family: 'Orbitron';
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+  src: url('../fonts/orbitron-bold-webfont.woff') format('woff'),
+    url('../fonts/orbitron-bold-webfont.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Montserrat';
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url('../fonts/Montserrat-Regular.woff2') format('woff2'),
+    url('../fonts/Montserrat-Regular.woff') format('woff');
+}
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+}
+
+.rc3_body {
+  font-family: Montserrat, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 1.222;
+  color: #fff;
+  background-color: #100e23;
+  text-align: center; 
+  padding: 20px;
+  margin: 0px auto;
+  width: 70%;
+
+  /*row justify-content-center align-items-center my-8 */
+}
+
+.rc3_border {
+  /*p-5 border border-primary text-center col-lg-8 col-xl-6 */
+  border-width: 2px;
+  border-style: solid;
+  border-color: #05b9ec;
+}
+
+.rc3_h1 {
+  font-weight: bold;
+  font-size: 72px;
+  color: #05b9ec;
+  font-family: Orbitron, Arial, sans-serif;
+}
+
+.rc3_h2 {
+  font-weight: bold;
+  font-size: 48px;
+  color: #05b9ec;
+  font-family: Orbitron, Arial, sans-serif;
+}
+
+.rc3_text {
+  font-size: 24px;
+  color: #ffffff;
+  font-family: Montserrat, Arial, sans-serif;
+  padding: 15px;
+}
+
+.rc3_linie {
+  border-top: 2px;
+  border-top-style: solid;
+  border-top-color: #05b9ec;
+}
+
+.rc3_bottons {
+  padding: 10px;
+}
+
+.rc3_btn-primary {
+  background-color: #b239ff;
+  border: none;
+  color: white;
+  padding: 12px 48px;
+  text-align: center;
+  display: inline-block;
+  font-size: 24px;
+  margin: 2px 2px;
+}
+
+.rc3_btn-secondary {
+  background-color: #6800e7;
+  border: none;
+  color: white;
+  padding: 12px 48px;
+  text-align: center;
+  display: inline-block;
+  font-size: 24px;
+  margin: 2px 2px;
+}
+
+li {
+  font-size: 24px;
+  color: #ffffff;
+  text-align:left;
+  font-family: Montserrat, Arial, sans-serif;
+  padding: 15px;
+}
