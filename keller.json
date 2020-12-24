@@ -324,7 +324,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/du_stehst_vor_einer_wand.mp3"
+                 "value":"sounds\/maze\/du_stehst_vor_einer_wand.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
