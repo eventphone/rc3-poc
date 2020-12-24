@@ -456,7 +456,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/ewt.eventphone.de"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/ewt.html"
                 }],
          "type":"tilelayer",
          "visible":true,
