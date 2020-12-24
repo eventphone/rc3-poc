@@ -337,7 +337,7 @@
          "height":64,
          "id":94,
          "name":"sound_du_stehst_vor_einer_wand",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -355,7 +355,7 @@
          "height":64,
          "id":98,
          "name":"sound_facing_a_wall",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
