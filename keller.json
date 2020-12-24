@@ -80,7 +80,7 @@
          "height":64,
          "id":97,
          "name":"minen",
-         "opacity":0.34,
+         "opacity":0.25,
          "type":"tilelayer",
          "visible":true,
          "width":64,
@@ -283,7 +283,7 @@
          "height":64,
          "id":95,
          "name":"sound_boom_2",
-         "opacity":0.52,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
@@ -301,7 +301,7 @@
          "height":64,
          "id":96,
          "name":"sound_boom_1",
-         "opacity":0.5,
+         "opacity":0,
          "properties":[
                 {
                  "name":"playAudio",
