@@ -5,12 +5,14 @@
 </head>
 <body class="rc3_body">
   <section class="rc3_border">
-  <h1 class"rc3_h1">Zeitansage</h1>
-  <button class="rc3_bottons" type="button" onclick="waitforstart()">Tell me</button>
-  <audio id="player"></audio>
-  <audio id="PIEP">
-    <source src="../sounds/zeitansage/Signalton.wav" type="audio/wav">
-  </audio>
+    <h2 class="rc3_h2">Zeitansage</h2>
+    <div class="rc3_bottons">
+      <button class="rc3_btn-primary" onclick="waitforstart()">Tell me</button>
+    </div>
+    <audio id="player"></audio>
+    <audio id="PIEP">
+      <source src="../sounds/zeitansage/Signalton.wav" type="audio/wav">
+    </audio>
   </section>
   <script type="text/javascript">
     var player = document.getElementById('player');
