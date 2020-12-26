@@ -1,0 +1,56 @@
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <button type="button" onclick="waitforstart()">Tell me</button>
+  <audio id="player"></audio>
+  <audio id="PIEP">
+    <source src="../sounds/zeitansage/Signalton.wav" type="audio/wav">
+  </audio>
+  <script type="text/javascript">
+    var player = document.getElementById('player');
+    var piep = document.getElementById('PIEP');
+    var files = [];
+    player.addEventListener('ended', playnext);
+    function play(){
+      player.play();
+    }
+    function waitforstart(){
+      player.src = '../sounds/zeitansage/Intro.wav';
+      var current = new Date(Date.now()+10000);
+      var second = current.getSeconds();
+      var offset = 2 - second%10;
+      if (offset < 0){
+        offset += 10;
+      }
+      window.setTimeout(play, offset * 1000);
+      files.push(`../sounds/zeitansage/stunden/${current.getHours()}%20Uhr.wav`);
+      files.push(`../sounds/zeitansage/minuten/${current.getMinutes()}%20Minuten.wav`);
+      files.push(`../sounds/zeitansage/sekunden/und%20${second - second%10}%20Sekunden.wav`);
+      player.load();
+    }
+    function playnext(){
+      if (files.length === 0){
+        player.pause();
+        player.src = '';
+        var current = new Date();
+        var offset = current.getSeconds()%10;
+        window.setTimeout(signal, (10 - offset) * 1000 - current.getMilliseconds());
+      }
+      else{
+        player.src = files.shift();
+        player.pause();
+        player.load();
+        player.play();
+      }
+    }
+    function signal(){
+      piep.play();
+      waitforstart();
+    }
+  </script>
+</body>
+</html>
+
