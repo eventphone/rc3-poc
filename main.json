@@ -960,7 +960,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"\/lobby.json#frompoc"
+                 "value":"{<lobby>\/main.json#start_eventphone}"
                 }],
          "type":"tilelayer",
          "visible":true,
