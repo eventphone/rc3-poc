@@ -1,14 +1,17 @@
 <html>
 <head>
   <meta charset="utf-8"/>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="../css/style.css">
 </head>
-<body>
-  <button type="button" onclick="waitforstart()">Tell me</button>
+<body class="rc3_body">
+  <section class="rc3_border">
+  <h1 class"rc3_h1">Zeitansage</h1>
+  <button class="rc3_bottons" type="button" onclick="waitforstart()">Tell me</button>
   <audio id="player"></audio>
   <audio id="PIEP">
     <source src="../sounds/zeitansage/Signalton.wav" type="audio/wav">
   </audio>
+  </section>
   <script type="text/javascript">
     var player = document.getElementById('player');
     var piep = document.getElementById('PIEP');
