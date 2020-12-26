@@ -492,7 +492,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/gelbeseiten.html"
+                 "value":"https:\/\/guru3.eventphone.de\/event\/gelbeseiten"
                 }],
          "type":"tilelayer",
          "visible":true,
