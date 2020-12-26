@@ -474,7 +474,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"static_content\/CERTifcate.png"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/static_content\/CERTificate.png"
                 }],
          "type":"tilelayer",
          "visible":true,
