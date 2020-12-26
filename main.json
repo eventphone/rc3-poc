@@ -415,7 +415,7 @@
          "height":35,
          "id":59,
          "name":"url_exponat_MC_ST_feuerwehr",
-         "opacity":0.2,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
