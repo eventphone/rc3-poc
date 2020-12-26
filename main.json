@@ -474,7 +474,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"html\/certificate.html"
+                 "value":"static_content\/CERTifcate.png"
                 }],
          "type":"tilelayer",
          "visible":true,
