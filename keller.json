@@ -535,7 +535,7 @@
          "height":64,
          "id":107,
          "name":"url_zeitansage",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
