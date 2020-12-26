@@ -1,94 +1,94 @@
-<html>
+<html lang="de">
 <head>
-  <meta charset="utf-8"/>
-  <link rel="stylesheet" href="../css/style.css">
+    <meta charset="utf-8"/>
+    <link rel="stylesheet" href="../css/style.css">
+    <title>Zeitansage</title>
 </head>
 <body class="rc3_body">
-  <section class="rc3_border">
+<section class="rc3_border">
     <h2 class="rc3_h2">Zeitansage</h2>
     <div class="rc3_bottons">
-      <button class="rc3_btn-primary" onclick="waitforstart()">Tell me</button>
+        <button class="rc3_btn-primary" onclick="waitforstart()">Tell me</button>
     </div>
     <audio id="player"></audio>
     <audio id="PIEP">
-      <source src="../sounds/zeitansage/Signalton.wav" type="audio/wav">
+        <source src="../sounds/zeitansage/Signalton.wav" type="audio/wav">
     </audio>
-  </section>
-  <script type="text/javascript">
+</section>
+<script type="text/javascript">
     var player = document.getElementById('player');
     var piep = document.getElementById('PIEP');
     var files = [];
     player.addEventListener('ended', playnext);
-    function play(){
-      player.play();
-    }
-    function waitforstart(){
-      player.pause();
-      var current = new Date(Date.now()+10000);
-      var second = current.getSeconds() % 10;
-      player.src = '../sounds/zeitansage/Intro.wav';
-      files = [`../sounds/zeitansage/stunden/${current.getHours()}%20Uhr.wav`,
-               `../sounds/zeitansage/minuten/${current.getMinutes()}%20Minuten.wav`,
-               `../sounds/zeitansage/sekunden/und%20${second - second%10}%20Sekunden.wav`];
-      if (second <=2){
-        //regular start
-        var offset = 2 - second;
-        window.setTimeout(play, offset * 1000);
-        player.load();
-        return;
-      }
-      else if (second < 4){
-        //start with offset into intro
-        player.load();
-        player.currentTime = current.getMilliseconds()/1000 + second - 2;
+
+    function play() {
         player.play();
-        return;
-      }
-      else if (second < 5){
-        //start with hour
-      }
-      else if (second < 7){
-        //start with minute
-        files.shift();
-      }
-      else if (second <= 8){
-        //start with second
-        files.shift();
-        files.shift();
-      }
-      else{
-        //only PIEP left
-        player.src = '';
-        schedulePiep();
-        return;
-      }
-      player.src = files.shift();
-      player.load();
-      player.play();
     }
-    function playnext(){
-      if (files.length === 0){
+
+    function waitforstart() {
         player.pause();
-        player.src = '';
-        schedulePiep();
-      }
-      else{
+        var current = new Date(Date.now() + 10000);
+        var second = current.getSeconds() % 10;
+        player.src = '../sounds/zeitansage/Intro.wav';
+        files = [`../sounds/zeitansage/stunden/${current.getHours()}%20Uhr.wav`,
+            `../sounds/zeitansage/minuten/${current.getMinutes()}%20Minuten.wav`,
+            `../sounds/zeitansage/sekunden/und%20${second - second % 10}%20Sekunden.wav`];
+        if (second <= 2) {
+            //regular start
+            var offset = 2 - second;
+            window.setTimeout(play, offset * 1000);
+            player.load();
+            return;
+        } else if (second < 4) {
+            //start with offset into intro
+            player.load();
+            player.currentTime = current.getMilliseconds() / 1000 + second - 2;
+            player.play();
+            return;
+        } else if (second < 5) {
+            //start with hour
+        } else if (second < 7) {
+            //start with minute
+            files.shift();
+        } else if (second <= 8) {
+            //start with second
+            files.shift();
+            files.shift();
+        } else {
+            //only PIEP left
+            player.src = '';
+            schedulePiep();
+            return;
+        }
         player.src = files.shift();
-        player.pause();
         player.load();
         player.play();
-      }
     }
-    function schedulePiep(){      
-      var current = new Date();
-      var offset = current.getSeconds()%10;
-      window.setTimeout(signal, (10 - offset) * 1000 - current.getMilliseconds());
+
+    function playnext() {
+        if (files.length === 0) {
+            player.pause();
+            player.src = '';
+            schedulePiep();
+        } else {
+            player.src = files.shift();
+            player.pause();
+            player.load();
+            player.play();
+        }
     }
-    function signal(){
-      piep.play();
-      waitforstart();
+
+    function schedulePiep() {
+        var current = new Date();
+        var offset = current.getSeconds() % 10;
+        window.setTimeout(signal, (10 - offset) * 1000 - current.getMilliseconds());
     }
-  </script>
+
+    function signal() {
+        piep.play();
+        waitforstart();
+    }
+</script>
 </body>
 </html>
 
