@@ -82,6 +82,14 @@ html {
   margin: 2px 2px;
 }
 
+.fixed-img {
+  padding: 3em;
+}
+
+.fixed-img img {
+  width: 100%;
+}
+
 .rc3_btn-secondary {
   background-color: #6800e7;
   border: none;
