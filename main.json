@@ -1086,7 +1086,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<lounge>\/maps\/main.json#start7}"
+                 "value":"{<lounge>\/main.json#start7}"
                 }],
          "type":"tilelayer",
          "visible":true,
