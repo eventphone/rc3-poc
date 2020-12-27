@@ -996,7 +996,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<lounge>\/main.json}"
+                 "value":"{<lounge>\/main.json#start7}"
                 }],
          "type":"tilelayer",
          "visible":true,
