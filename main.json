@@ -217,7 +217,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/html\/poctisch.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/poctisch.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -384,7 +384,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/html\/mitarbeiter_des_monats.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/mitarbeiter_des_monats.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -402,7 +402,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/html\/history.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/history.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -420,7 +420,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/html\/blog.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/blog.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -438,7 +438,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/html\/mc_st.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/mc_st.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -456,7 +456,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/html\/cnetz_inbetriebnahme.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/cnetz_inbetriebnahme.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -474,7 +474,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/html\/basisstation.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/basisstation.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -492,7 +492,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/html\/promo.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/promo.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -510,7 +510,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/html\/mc_st_feuerwehr.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/mc_st_feuerwehr.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -564,7 +564,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/static_content\/CERTificate.png"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/static_content\/CERTificate.png"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -600,7 +600,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/html\/ewt.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/ewt.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -636,7 +636,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/html\/feuerloescher.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/feuerloescher.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -654,7 +654,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/html\/brandschutzordnung.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/brandschutzordnung.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -672,7 +672,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/static_content\/bmz.png"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/static_content\/bmz.png"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -708,7 +708,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/html\/zeitansage.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/zeitansage.html"
                 }],
          "type":"tilelayer",
          "visible":true,
