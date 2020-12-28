@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/fluttershy.html"
+                 "value":"https:\/\/hangar.rc3.world\/eventphone\/html\/fluttershy.html"
                 }],
          "type":"tilelayer",
          "visible":true,

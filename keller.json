@@ -576,7 +576,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/promo_erdgeist.html"
+                 "value":"https:\/\/hangar.rc3.world\/eventphone\/html\/promo_erdgeist.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -594,7 +594,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/feuerloescher.html"
+                 "value":"https:\/\/hangar.rc3.world\/eventphone\/html\/feuerloescher.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -612,7 +612,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/zeitansage.html"
+                 "value":"https:\/\/hangar.rc3.world\/eventphone\/html\/zeitansage.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -630,7 +630,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/kakerlaken.html"
+                 "value":"https:\/\/hangar.rc3.world\/eventphone\/html\/kakerlaken.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -660,7 +660,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/poc_secret.html"
+                 "value":"https:\/\/hangar.rc3.world\/eventphone\/html\/poc_secret.html"
                 }],
          "type":"tilelayer",
          "visible":true,
