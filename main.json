@@ -708,7 +708,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/zeitansage.html"
+                 "value":"https:\/\/hangar.rc3.world\/eventphone\/html\/zeitansage.html"
                 }],
          "type":"tilelayer",
          "visible":true,
