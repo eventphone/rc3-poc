@@ -2648,10 +2648,6 @@
          "tilecount":4,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "firstgid":9398,
-         "source":"..\/..\/Desktop\/rc3\/pony8.tsx"
         }],
  "tilewidth":32,
  "type":"map",
