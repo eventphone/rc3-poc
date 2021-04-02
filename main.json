@@ -1050,7 +1050,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"{<lounge>\/main.json#start7}"
+                 "value":"https:\/\/world.di.c3voc.de\/_\/global\/raw.githubusercontent.com\/raumzeitlabor\/divoc-map-lounge\/master\/moehrlin.json#start_poc"
                 }],
          "type":"tilelayer",
          "visible":true,
