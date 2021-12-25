@@ -1880,7 +1880,11 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
-         "tilesetCopyright": "",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+         }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -1904,7 +1908,11 @@
          "imagewidth":512,
          "margin":0,
          "name":"food_and_drinks",
-         "tilesetCopyright": "",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":""
+         }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1918,7 +1926,11 @@
          "imagewidth":352,
          "margin":0,
          "name":"logo_aufsteller",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":33,
          "tileheight":32,
@@ -2032,7 +2044,11 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
-         "tilesetCopyright": "cert",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cert"
+         }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -2065,7 +2081,11 @@
          "imagewidth":512,
          "margin":0,
          "name":"c3gelb",
-         "tilesetCopyright": "c3gelb",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"c3gelb"
+         }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -2079,7 +2099,11 @@
          "imagewidth":512,
          "margin":0,
          "name":"cert_safety",
-         "tilesetCopyright": "cert",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cert"
+         }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -2093,7 +2117,11 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3",
-         "tilesetCopyright": "rc3",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"rc3"
+         }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -2107,7 +2135,11 @@
          "imagewidth":64,
          "margin":0,
          "name":"mitarbeiter_des_monats",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -2121,7 +2153,11 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -2135,7 +2171,11 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-objects",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -2149,7 +2189,11 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-neon-signs",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -2316,7 +2360,11 @@
          "imagewidth":96,
          "margin":0,
          "name":"mc_st_wall",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":6,
          "tileheight":32,
@@ -2330,7 +2378,11 @@
          "imagewidth":160,
          "margin":0,
          "name":"PoC_Museum",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":10,
          "tileheight":32,
@@ -2344,7 +2396,11 @@
          "imagewidth":32,
          "margin":0,
          "name":"Funktion_One",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -2358,7 +2414,11 @@
          "imagewidth":128,
          "margin":0,
          "name":"eventphone_logo_neon_rC3",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -2661,7 +2721,11 @@
          "imagewidth":64,
          "margin":0,
          "name":"PoC_Zwerg_rC3",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -2700,7 +2764,11 @@
          "imagewidth":512,
          "margin":0,
          "name":"leipzig_messe",
-         "tilesetCopyright": "cert",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cert"
+         }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -2714,7 +2782,11 @@
          "imagewidth":96,
          "margin":0,
          "name":"modem",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":3,
          "tileheight":32,
@@ -2769,7 +2841,11 @@
          "imagewidth":64,
          "margin":0,
          "name":"pbx_history",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -2783,7 +2859,11 @@
          "imagewidth":64,
          "margin":0,
          "name":"mikrowelle",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -2834,7 +2914,11 @@
          "imagewidth":32,
          "margin":0,
          "name":"GSM",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -2848,7 +2932,11 @@
          "imagewidth":32,
          "margin":0,
          "name":"poccorn",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":2,
          "tileheight":32,
@@ -2862,7 +2950,11 @@
          "imagewidth":480,
          "margin":0,
          "name":"poctiles_1",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":300,
          "tileheight":32,
@@ -2876,7 +2968,11 @@
          "imagewidth":32,
          "margin":0,
          "name":"fax2",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -2890,7 +2986,11 @@
          "imagewidth":64,
          "margin":0,
          "name":"mc_st_feuerwehr",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -2904,7 +3004,11 @@
          "imagewidth":160,
          "margin":0,
          "name":"boden",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":25,
          "tileheight":32,
@@ -2918,7 +3022,11 @@
          "imagewidth":32,
          "margin":0,
          "name":"mouse",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -2932,7 +3040,11 @@
          "imagewidth":64,
          "margin":0,
          "name":"promo",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -2946,7 +3058,11 @@
          "imagewidth":64,
          "margin":0,
          "name":"worldExit",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -2960,7 +3076,11 @@
          "imagewidth":32,
          "margin":0,
          "name":"That70sRedPhone",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -2974,7 +3094,11 @@
          "imagewidth":32,
          "margin":0,
          "name":"pony3",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -2988,7 +3112,11 @@
          "imagewidth":32,
          "margin":0,
          "name":"vr",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -3002,7 +3130,11 @@
          "imagewidth":32,
          "margin":0,
          "name":"cnetz",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":1,
          "tileheight":32,
@@ -3016,7 +3148,11 @@
          "imagewidth":64,
          "margin":0,
          "name":"basisstation",
-         "tilesetCopyright": "eventphone",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
+         }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
