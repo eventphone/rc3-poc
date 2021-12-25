@@ -994,7 +994,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"dach.json"
                 }],
@@ -1012,7 +1012,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"keller.json"
                 }],
@@ -1030,7 +1030,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_eventphone"
                 }],
@@ -1048,7 +1048,7 @@
          "opacity":0,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":"https:\/\/world.di.c3voc.de\/_\/global\/raw.githubusercontent.com\/raumzeitlabor\/divoc-map-lounge\/master\/moehrlin.json#start_poc"
                 }],
