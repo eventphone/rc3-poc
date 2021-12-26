@@ -1,0 +1,14 @@
+name: Lint map
+
+on: [push]
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Bash
+        run: |
+          chmod +x .github/tools/walint
+          .github/tools/walint --config-file .github/tools/config.json
+
