@@ -1032,7 +1032,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_eventphone"
+                 "value":"world:\/\/lobby\/main.json#start_eventphone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1050,7 +1050,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/world.di.c3voc.de\/_\/global\/raw.githubusercontent.com\/raumzeitlabor\/divoc-map-lounge\/master\/moehrlin.json#start_poc"
+                 "value":"world:\/\/lounge\/main.json#start_poc"
                 }],
          "type":"tilelayer",
          "visible":true,
