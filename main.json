@@ -1145,7 +1145,11 @@
          "imagewidth":512,
          "margin":0,
          "name":"office_1",
-         "tilesetCopyright": "deviantart.com",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"deviantart.com"
+         }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
