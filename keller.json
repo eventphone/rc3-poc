@@ -707,6 +707,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/promo_erdgeist.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -725,6 +735,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/feuerloescher.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -743,6 +763,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/zeitansage.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -761,6 +791,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/kakerlaken.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -791,6 +831,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/poc_secret.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1011,6 +1061,27 @@
  "nextlayerid":124,
  "nextobjectid":2,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"eventphone"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Keller for the eventphone Room"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/eventphone.github.io\/rc3-poc\/keller.json"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"poc_keller"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
