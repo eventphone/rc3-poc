@@ -793,12 +793,6 @@
          "id":37,
          "name":"sound_Lounge",
          "opacity":0,
-         "properties":[
-                {
-                 "name":"playAudio",
-                 "type":"string",
-                 "value":"strm112.1.fm\/top40_mobile_mp3"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":48,
@@ -1049,7 +1043,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lounge\/main.json#start_poc"
+                 "value":"world:\/\/lobby\/main.json#start_poc"
                 }],
          "type":"tilelayer",
          "visible":true,
