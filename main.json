@@ -468,7 +468,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/osmocom-analog.eversberg.eu\/docs\/c-netz.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/c-netz.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -486,7 +486,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/osmocom-analog.eversberg.eu\/docs\/a-netz.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/a-netz.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -504,7 +504,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/osmocom-analog.eversberg.eu\/docs\/b-netz.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/b-netz.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -522,7 +522,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/osmocom-analog.eversberg.eu\/docs\/nmt.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/nmt.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -540,7 +540,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/osmocom-analog.eversberg.eu\/docs\/radiocom2000.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/radiocom2000.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -558,7 +558,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/osmocom-analog.eversberg.eu\/docs\/imts.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/imts.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -576,7 +576,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/osmocom-analog.eversberg.eu\/docs\/amps.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/amps.html"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -589,12 +589,12 @@
          "height":35,
          "id":109,
          "name":"url_jolly_eurosignal",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/osmocom-analog.eversberg.eu\/docs\/eurosignal.html"
+                 "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/eurosignal.html"
                 }],
          "type":"tilelayer",
          "visible":true,
