@@ -1960,15 +1960,6 @@
                          "type":"bool",
                          "value":true
                         }]
-                }, 
-                {
-                 "id":7,
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingRoom"
-                        }]
                 }],
          "tilewidth":32
         }, 
