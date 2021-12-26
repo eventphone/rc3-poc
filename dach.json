@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":21,
  "infinite":false,
  "layers":[
@@ -26,18 +19,6 @@
          "height":21,
          "id":16,
          "name":"Sand",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":29,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1597, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1612, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1598, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1612, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1611, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-         "height":21,
-         "id":26,
-         "name":"Eier versteckt",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -200,7 +181,7 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"PoC_Raucherbereich"
-                },
+                }, 
                 {
                  "name":"jitsiTrigger",
                  "type":"string",
@@ -347,7 +328,7 @@
  "nextobjectid":4,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"2021.02.15",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -358,11 +339,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"floortileset",
-         "properties":[{
+         "properties":[
+                {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"eventphone"
-         }],
+                }],
          "spacing":0,
          "tilecount":64,
          "tileheight":32,
@@ -386,11 +368,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"office_1",
-         "properties":[{
+         "properties":[
+                {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"deviantart.com"
-         }],
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -1125,11 +1108,12 @@
          "imagewidth":192,
          "margin":0,
          "name":"pool1",
-         "properties":[{
+         "properties":[
+                {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"eventphone"
-         }],
+                }],
          "spacing":0,
          "tilecount":24,
          "tileheight":32,
@@ -1143,11 +1127,12 @@
          "imagewidth":224,
          "margin":0,
          "name":"minideko",
-         "properties":[{
+         "properties":[
+                {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"eventphone"
-         }],
+                }],
          "spacing":0,
          "tilecount":91,
          "tileheight":32,
@@ -1161,11 +1146,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
-         "properties":[{
+         "properties":[
+                {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"cert"
-         }],
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -1189,11 +1175,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"bank",
-         "properties":[{
+         "properties":[
+                {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"eventphone"
-         }],
+                }],
          "spacing":0,
          "tilecount":40,
          "tileheight":32,
@@ -1207,11 +1194,12 @@
          "imagewidth":64,
          "margin":0,
          "name":"pony",
-         "properties":[{
+         "properties":[
+                {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"eventphone"
-         }],
+                }],
          "spacing":0,
          "tilecount":4,
          "tileheight":32,
@@ -1225,11 +1213,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"cert_safety",
-         "properties":[{
+         "properties":[
+                {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"cert"
-         }],
+                }],
          "spacing":0,
          "tilecount":1024,
          "tileheight":32,
@@ -1243,11 +1232,12 @@
          "imagewidth":96,
          "margin":0,
          "name":"raum_r",
-         "properties":[{
+         "properties":[
+                {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"eventphone"
-         }],
+                }],
          "spacing":0,
          "tilecount":3,
          "tileheight":32,
@@ -1261,11 +1251,12 @@
          "imagewidth":128,
          "margin":0,
          "name":"smoking",
-         "properties":[{
+         "properties":[
+                {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"eventphone"
-         }],
+                }],
          "spacing":0,
          "tilecount":12,
          "tileheight":32,
@@ -1279,11 +1270,12 @@
          "imagewidth":480,
          "margin":0,
          "name":"poctiles_1",
-         "properties":[{
+         "properties":[
+                {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"eventphone"
-         }],
+                }],
          "spacing":0,
          "tilecount":300,
          "tileheight":32,
@@ -1297,11 +1289,12 @@
          "imagewidth":256,
          "margin":0,
          "name":"pool3",
-         "properties":[{
+         "properties":[
+                {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"eventphone"
-         }],
+                }],
          "spacing":0,
          "tilecount":16,
          "tileheight":32,
@@ -1315,11 +1308,12 @@
          "imagewidth":312,
          "margin":0,
          "name":"pool2",
-         "properties":[{
+         "properties":[
+                {
                  "name":"tilesetCopyright",
                  "type":"string",
                  "value":"eventphone"
-         }],
+                }],
          "spacing":0,
          "tilecount":54,
          "tileheight":32,
@@ -1327,6 +1321,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":29
 }
