@@ -206,6 +206,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/poctisch.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -343,6 +353,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/mitarbeiter_des_monats.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -361,6 +381,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/history.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -379,6 +409,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/blog.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -397,6 +437,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/mc_st.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -415,6 +465,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/cnetz_inbetriebnahme.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -433,6 +493,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/jolly\/c-netz.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -451,6 +521,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/jolly\/a-netz.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -469,6 +549,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/jolly\/b-netz.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -487,6 +577,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/jolly\/nmt.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -505,6 +605,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/jolly\/radiocom2000.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -523,6 +633,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/jolly\/imts.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -541,6 +661,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/jolly\/amps.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -559,6 +689,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/jolly\/eurosignal.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -577,6 +717,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/promo.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -595,6 +745,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/mc_st_feuerwehr.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -613,6 +773,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/pads.cert.ccc.de\/p\/poc_whiteboard"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -631,6 +801,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/dashboard.eventphone.de\/d\/sLCNqNbGk\/rc3-world"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -649,6 +829,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/static_content\/CERTificate.png"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -667,6 +857,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/guru3.eventphone.de\/event\/gelbeseiten"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -685,6 +885,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/70s.kontrollz.de\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -703,6 +913,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/feuerloescher.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -721,6 +941,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/brandschutzordnung.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -739,6 +969,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/static_content\/bmz.png"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -757,6 +997,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/sketchful.io\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -775,6 +1025,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/zeitansage.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -798,6 +1058,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to enter Backstage"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1378,6 +1643,27 @@
  "nextlayerid":110,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"eventphone"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Eventphone Room"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/eventphone.github.io\/rc3-poc\/main.json"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"poc_main"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,

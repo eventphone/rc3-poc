@@ -139,6 +139,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/eventphone.github.io\/rc3-poc\/html\/fluttershy.html"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -186,6 +196,11 @@
                  "name":"jitsiTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to enter Raucherbereich"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -327,6 +342,27 @@
  "nextlayerid":27,
  "nextobjectid":4,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"eventphone"
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"Dach for the eventphone Room"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/eventphone.github.io\/rc3-poc\/dach.json"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"poc_dach"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
