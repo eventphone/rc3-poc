@@ -362,12 +362,6 @@
          "id":7,
          "name":"override",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"depth",
-                 "type":"int",
-                 "value":3
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":48,
@@ -709,6 +703,11 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"PoC_Backstage"
+                },
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1032,7 +1031,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/c0c0bird.codeberg.page\/main.json#start_eventphone"
+                 "value":"world:\/\/lobby\/main.json#start_eventphone"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1050,7 +1049,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/world.di.c3voc.de\/_\/global\/raw.githubusercontent.com\/raumzeitlabor\/divoc-map-lounge\/master\/moehrlin.json#start_poc"
+                 "value":"world:\/\/lounge\/main.json#start_poc"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1145,7 +1144,11 @@
          "imagewidth":512,
          "margin":0,
          "name":"office_1",
-         "tilesetCopyright": "deviantart.com",
+         "properties":[{
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"deviantart.com"
+         }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
@@ -2060,15 +2063,6 @@
                          "name":"collides",
                          "type":"bool",
                          "value":true
-                        }]
-                }, 
-                {
-                 "id":7,
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"MeetingRoom"
                         }]
                 }],
          "tilewidth":32
