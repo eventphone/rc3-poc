@@ -19,12 +19,12 @@
          "height":46,
          "id":21,
          "name":"exitTop",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start2"
+                 "value":"world:\/\/heaven\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
