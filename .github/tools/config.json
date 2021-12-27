@@ -1,6 +1,6 @@
 {
   "AssemblyTag":"poc",
-  "Assemblies":["lobby", "lounge"],
+  "Assemblies":["heaven", "lobby", "lounge"],
   "ScriptInject":null,
   "AllowScripts":false,
   "MaxLintLevel":"Warning",
