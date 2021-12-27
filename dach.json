@@ -408,7 +408,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"deviantart.com"
+                 "value":"https:\/\/www.deviantart.com\/milkian"
                 }],
          "spacing":0,
          "tilecount":256,
@@ -1148,7 +1148,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"eventphone"
+                 "value":"https:\/\/forums.rpgmakerweb.com\/index.php?members\/celianna.13\/"
                 }],
          "spacing":0,
          "tilecount":24,
@@ -1215,7 +1215,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"eventphone"
+                 "value":"https:\/\/www.deviantart.com\/zewiskaaz\/art\/Add-ons-playground-349715537"
                 }],
          "spacing":0,
          "tilecount":40,
