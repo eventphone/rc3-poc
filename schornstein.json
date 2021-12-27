@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/heaven\/main.json"
+                 "value":"world:\/\/himmel\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
