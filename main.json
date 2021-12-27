@@ -3721,24 +3721,20 @@
         {
          "columns":0,
          "firstgid":6418,
-         "grid":
-            {
-             "height":1,
-             "orientation":"orthogonal",
-             "width":1
-            },
+	 "image":"tiles-poc\/schornstein-exit-icon.png",
+         "imageheight":59,
+         "imagewidth":32,
          "margin":0,
          "name":"schornstein",
-         "spacing":0,
-         "tilecount":1,
-         "tileheight":59,
-         "tiles":[
+         "properties":[
                 {
-                 "id":1,
-                 "image":"tiles-poc\/schornstein-exit-icon.png",
-                 "imageheight":59,
-                 "imagewidth":32
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"eventphone"
                 }],
+         "spacing":0,
+         "tilecount":2,
+         "tileheight":32,
          "tilewidth":32
         }],
  "tilewidth":32,
