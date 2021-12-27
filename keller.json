@@ -1098,7 +1098,7 @@
                 {
                  "name":"tilesetCopyright",
                  "type":"string",
-                 "value":"deviantart.com"
+                 "value":"https:\/\/www.deviantart.com\/milkian"
                 }],
          "spacing":0,
          "tilecount":256,
