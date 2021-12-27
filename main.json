@@ -3719,11 +3719,11 @@
          "tilewidth":32
         }, 
         {
-         "columns":0,
+         "columns":8,
          "firstgid":6418,
-	 "image":"tiles-poc\/schornstein-exit-icon.png",
-         "imageheight":59,
-         "imagewidth":32,
+         "image":"tiles-poc\/schornstein-exit-icon.png",
+         "imageheight":256,
+         "imagewidth":256,
          "margin":0,
          "name":"schornstein",
          "properties":[
@@ -3733,7 +3733,7 @@
                  "value":"eventphone"
                 }],
          "spacing":0,
-         "tilecount":2,
+         "tilecount":64,
          "tileheight":32,
          "tilewidth":32
         }],
