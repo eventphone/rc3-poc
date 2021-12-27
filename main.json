@@ -782,7 +782,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"press SPACE to open Website"
+                 "value":"press SPACE to look at whiteboard"
                 }],
          "type":"tilelayer",
          "visible":true,
