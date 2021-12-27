@@ -1,6 +1,6 @@
 {
-  "AssemblyTag":"assemblyname",
-  "Assemblies":["lobby"],
+  "AssemblyTag":"poc",
+  "Assemblies":["lobby", "lounge"],
   "ScriptInject":null,
   "AllowScripts":false,
   "MaxLintLevel":"Warning",

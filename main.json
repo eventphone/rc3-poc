@@ -1560,7 +1560,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/main.json#start_poc"
+                 "value":"world:\/\/lounge\/main.json#start_poc"
                 }],
          "type":"tilelayer",
          "visible":true,
